@@ -65,3 +65,5 @@ acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 acestream://c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 720 (Fórmula 1)
 acestream://12e7fb26141ec4a6d99588e0e870a1a441b37f83
+#EXTINF:-1 group-title="TOROS" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]Mundo Toro 
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef

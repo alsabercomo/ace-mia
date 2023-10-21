@@ -6,7 +6,7 @@ acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 Multiaudio
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] DAZN Liga - 1080 Multiaudio
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] DAZN Liga - 1080 op1 Multiaudio

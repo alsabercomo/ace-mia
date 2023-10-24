@@ -51,12 +51,14 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lcampeones.png",[ ESP]M.L. Campeones 1080 MultiAudio
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lcampeones.png",[ ESP]M.L. Campeones 1080 MultiAudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 2 1080
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 2 720
-acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 3 1080
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 4 SD
@@ -66,7 +68,7 @@ acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 6 SD
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 1080 (Fórmula 1)
-acestream://c372020ed2744033f56548b6beb11a9f3e740f37
+acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 720 (Fórmula 1)
 acestream://12e7fb26141ec4a6d99588e0e870a1a441b37f83
 #EXTINF:-1 group-title="TOROS" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]Mundo Toro 

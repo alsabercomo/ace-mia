@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="0" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] M.#0
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="M +" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] M+
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] M+ LaLiga TV UHD
 acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 Multiaudio
@@ -49,27 +49,29 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn3.png",[ ESP]DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lcampeones.png",[ ESP]M.L. Campeones 1080 MultiAudio
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lcampeones.png",[ ESP]M.L. Campeones 1080 MultiAudio
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lcampeones.png",[ ESP]M.L. Campeones 1080 MultiAudio
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/lcampeones.png",[ ESP]M.L. Campeones 1080 MultiAudio
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 2 1080
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 2 1080
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 2 720
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 2 720
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 3 1080
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 3 1080
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 3 720
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 4 SD
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 4 SD
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 5 SD
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 5 SD
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 6 SD
+#EXTINF:-1 group-title="Liga De Campeones" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]M.L. Campeones 6 SD
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1 group-title="DAZN F1" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 720 (Fórmula 1)
+#EXTINF:-1 group-title="DAZN F1" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 UHD (Fórmula 1)
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 group-title="DAZN F1" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]DAZN F1 720 (Fórmula 1)
 acestream://12e7fb26141ec4a6d99588e0e870a1a441b37f83
 #EXTINF:-1 group-title="TOROS" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png",[ ESP]Mundo Toro 
 acestream://f763ab71f6f646e6c993f37e237be97baf2143ef

@@ -2,7 +2,9 @@
 #EXTINF:-1 group-title="M +" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] M+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] M+ LaLiga TV UHD
-acestream://8286183314d367940409b760bbf887f3fb923f60
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 Multiaudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 Multiaudio

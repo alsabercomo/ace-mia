@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="M +" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] M+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] M+ LaLiga TV UHD
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] La Liga - 1080 Multiaudio
@@ -25,6 +25,8 @@ acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png",[ ESP]Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNF1.png",[ ESP]DAZN F1 UHD
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNF1.png",[ ESP]DAZN F1 1080
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNF1.png",[ ESP]DAZN F1 1080

@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="M +" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] DAZN ESPECIAL
+acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 group-title="M +" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] DAZN ESPECIAL2
+acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 group-title="M +" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] DAZN ESPECIAL3
+acestream://4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 group-title="M +" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/#0.png",[ ESP] M+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="La Liga" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png",[ ESP] M+ LaLiga TV UHD

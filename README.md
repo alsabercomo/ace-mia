@@ -25,7 +25,7 @@ acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
 acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p *
-acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
+acestream://599fb52eba4bd937b2029210bdeca9f1a34a32da
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p **
 acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p **
@@ -67,9 +67,9 @@ acestream://908bc5e7ae52afc06e40793b6db749dba11a1780
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 4 **
 acestream://9ced16b2055c99bf89c26e678e315e1b01d3734c
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNF1.png",[ ESP]DAZN F1 4K
-acestream://4141892f5df7d6474bf0279895ce02b7336c9928
+acestream://4236714aa65e854f90bb6b710369bfb6e862cb23
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNF1.png",[ ESP]DAZN F1 1080
-acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+acestream://dc149729d6b4be6ae8199eae450611d1d06e5149
 #EXTINF:-1 group-title="Dazn" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNF1.png",[ ESP]DAZN F1 1080
 acestream://691739972eb3468cf16b25e84dafdeaa40dead6d
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *

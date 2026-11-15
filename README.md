@@ -17,9 +17,9 @@ acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p **
 acestream://9e5da99bac88a4a3ed200d3bdf260b683145ca57
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p *
-acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
